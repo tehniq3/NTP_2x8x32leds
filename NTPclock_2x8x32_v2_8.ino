@@ -317,7 +317,7 @@ if (minut/10 == 0)
   ceas = ceas + minut;
 int lceas = 6*ceas.length(); // https://reference.arduino.cc/reference/en/language/variables/data-types/string/functions/length/
 
-
+/*
 matrix.fillScreen(0);
 matrix.setTextColor(colors[culoare]);
 matrix.setCursor(1, 0);
@@ -325,7 +325,8 @@ matrix.print(ceas);
 //matrix.setPixelColor(255, matrix.Color(0, 150, 0));
 ceasbinar();   
 matrix.show();
-
+*/
+ 
 if (DST != DST0)
 {
   timeClient.setTimeOffset((timezoneOffset + DST)*3600);
