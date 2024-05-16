@@ -1,5 +1,10 @@
 # NTP_2x8x32leds
 used two 8x32 addressable led matrix displays
 
+article: https://nicuflorica.blogspot.com/2024/05/ceas-ntp-pe-2-matrici-de-8x32-leduri.html
 
 ![schematic](https://github.com/tehniq3/NTP_2x8x32leds/blob/main/NTP_clock_2x8x32_leds_schematic_v3m.png)
+
+![1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizDH4NVV662GhNVNCu9JyxrO6EmCkR85igzGRmcs1VdkeHGzFzHF5vssXMqpgf4HGXx_i6L6an-2jGP4cGroqYRz18vYY-VF4TDzcPmyArMQW9dPZGG7U7AKt7OgmxF8NwnH_4RCyhjXGHeVE457UzJtC6fKFNiqKVtcNegkKPNCL0hEfBt1wLxbTWwo9J/w200-h111/ceas_NTP_2x8x32_01.png)
+![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggvKs3olQN64vq41vKVRFTrqt-t9WLH8TD7mEDEpHmVoynbLk92UuHDbp5IqGEGuqWB1CsyZMgDcroYPVDhr04MK7jwqAUOd6g7GcaaF-6nnutr3Lf1FGmimOiDdicpkJ_lOncwPNfE72bvLDO5V4Iba6DfWT2sKKpyYQghnZw0iJFRdBYd-WWUxz3H9D4/w200-h150/ceas_NTP_2x8x32_02.png)
+![3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8E9ra4vIqsdizO-jv7W7iU6BFKNB5I1TQTrc7WNV4jF0tqebSLcwjads9MsW8f2YjWFsOoW_IiCBquRZXpLZXK_pMSw6iIcDRjwklGOmM5cNCYU01AtrLbWXQVL0-riuY27kxSV_9-pqwQQoQjtFEa2XNT9McO9vgHjR8MbZ2dOsgvz7QM99NPk30i7vX/w200-h150/IMG_20230803_180705.jpg)
