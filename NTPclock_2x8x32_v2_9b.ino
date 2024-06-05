@@ -173,7 +173,7 @@ const uint16_t culbin[6] = {  0,  0,255,
                             255,255,255};
 
 int orai, minuti;
-byte liber = 2;
+byte liber = 1;
 byte liber0 = 7;
 unsigned long tpceas;
 unsigned long tpinterogare0 = 500;
